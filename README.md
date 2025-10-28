@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi I'm lee kyu hyun 👋
+![헤더 배너](./github-header-banner.png)
 
   <br>
 
