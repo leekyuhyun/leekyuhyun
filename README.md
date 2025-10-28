@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=280&section=header&text=lee%20kyu%20hyun&fontSize=52&fontColor=ffffff&desc=프론트엔드%20개발자&descSize=18&descAlign=50&descAlignY=70)
-
 <div align="center">
 
 # Hi I'm lee kyu hyun 👋
