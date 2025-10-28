@@ -31,5 +31,7 @@
   <br>
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSP-F8DC75?style=flat-square&logoColor=black"/>
+  
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </div>
