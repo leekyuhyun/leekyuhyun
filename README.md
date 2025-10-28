@@ -19,22 +19,3 @@
   </div>
 
   <br>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=leekyuhyun&theme=transparent&row=1"
-      alt="GitHub Trophies"
-    />
-  </a>
-</p>
-
-<br>
-
-## 👤 Visitors
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleekyuhyun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-</p>
