@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://git-profile-readme-banner.vercel.app/api/javascript?username=Hello!!%20I'm%20Lee%20Kyu%20Hyun&txt=Frontend%20Developer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=280&section=header&text=Hello!!%20I'm%20Lee%20Kyu%20Hyun&fontSize=48&fontColor=ffffff&desc=Frontend%20Developer&descSize=18&descAlign=50&descAlignY=70"
     alt="Header Banner"
   />
 </p>
