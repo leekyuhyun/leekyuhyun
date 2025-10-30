@@ -1,6 +1,11 @@
 <div align="center">
 
-![헤더 배너](./images/github-header-banner.png)
+<p align="center">
+  <img 
+    src="https://git-profile-readme-banner.vercel.app/api/vue?username=Hello!!%20I'm%20Lee%20Kyu%20Hyun&txt=Frontend%20Developer"
+    alt="Header Banner"
+  />
+</p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-peach-six-81.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leekyuhyun?tab=repositories)
