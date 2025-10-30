@@ -94,51 +94,53 @@
 ## 🚀 My Journey
 
 <div align="center">
-  <i>"끊임없이 배우고 성장하며, 더 나은 사용자 경험을 만들기 위해 나아가는 저의 여정입니다."</i>
+<i>"끊임없이 배우고 성장하며, 더 나은 사용자 경험을 만들기 위해 나아가는 저의 여정입니다."</i>
 </div>
 
 <br>
 
 <table align="center" width="100%">
-  <tr align="left" valign="top">
-    
-        <td width="50%">
-      <strong>📚 What I'm Learning (현재 학습 중인 것)</strong>
-      <br><br>
-      <b>Vue.js 반응형 시스템 및 성능 최적화</b>
-      <br>: Composition API와 렌더링 최적화 학습
-      <br><br>
-      <b>React Hook 기반 상태 관리</b>
-      <br>: Memoization을 활용한 UI 성능 최적화
-      <br><br>
-      <b>크로스 브라우징 (Cross-browsing)</b>
-      <br>: 최신 CSS 호환성 및 기기별 일관성 확보
-      <br><br>
-      <b>Pinia를 활용한 전역 상태 관리</b>
-      <br>: 모듈화된 스토어 설계 학습
-      <br><br>
-      <b>Vitest를 이용한 단위 테스트</b>
-      <br>: TDD 기반의 안정적인 코드 품질 확보
-    </td>
-    
-        <td width="50%">
-      <strong>🎯 My Next Goals (다음 학습 목표)</strong>
-      <br><br>
-      <b>Next.js</b>
-      <br>: SSR, SSG를 통한 SEO 및 로딩 속도 최적화
-      <br><br>
-      <b>Tailwind CSS</b>
-      <br>: 유틸리티 우선 프레임워크를 이용한 맞춤형 디자인 시스템 구축
-      <br><br>
-      <b>GraphQL</b>
-      <br>: 효율적인 API 요청을 통한 데이터 통신 최적화
-      <br><br>
-      <b>배포 자동화 (GitHub Actions)</b>
-      <br>: CI/CD 파이프라인 구축 및 자동화된 테스트/배포
-      <br><br>
-      <b>Docker 컨테이너</b>
-      <br>: 개발 환경 일관성 확보 및 DevOps 이해
-    </td>
-    
-  </tr>
+<tr align="left" valign="top">
+    
+<td width="50%">
+<strong>📚 What I'm Learning (현재 학습 중인 것)</strong>
+<br><br>
+<b>Vue.js 반응형 시스템 및 성능 최적화</b>
+<br>: Composition API와 렌더링 최적화 학습
+<br><br>
+<b>React Hook 기반 상태 관리</b>
+<br>: Memoization을 활용한 UI 성능 최적화
+<br><br>
+<b>크로스 브라우징 (Cross-browsing)</b>
+<br>: 최신 CSS 호환성 및 기기별 일관성 확보
+<br><br>
+<b>Pinia를 활용한 전역 상태 관리</b>
+<br>: 모듈화된 스토어 설계 학습
+<br><br>
+<b>Vitest를 이용한 단위 테스트</b>
+<br>: TDD 기반의 안정적인 코드 품질 확보
+</td>
+
+<td width="50%">
+<strong>🎯 My Next Goals (다음 학습 목표)</strong>
+<br><br>
+<b>Next.js</b>
+<br>: SSR, SSG를 통한 SEO 및 로딩 속도 최적화
+<br><br>
+<b>Tailwind CSS</b>
+<br>: 유틸리티 우선 프레임워크를 이용한 맞춤형 디자인 시스템 구축
+<br><br>
+<b>GraphQL</b>
+<br>: 효율적인 API 요청을 통한 데이터 통신 최적화
+<br><br>
+<b>배포 자동화 (GitHub Actions)</b>
+<br>: CI/CD 파이프라인 구축 및 자동화된 테스트/배포
+<br><br>
+<b>Docker 컨테이너</b>
+<br>: 개발 환경 일관성 확보 및 DevOps 이해
+</td>
+    
+</tr>
 </table>
+
+---
