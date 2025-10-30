@@ -111,6 +111,9 @@
 <b>React Hook 기반 상태 관리</b>
 <br>- Memoization을 활용한 UI 성능 최적화
 <br><br>
+<b>React 성능 최적화</b>
+<br>- Code Splitting 및 Lazy Loading 적용 학습
+<br><br>
 <b>크로스 브라우징 (Cross-browsing)</b>
 <br>- 최신 CSS 호환성 및 기기별 일관성 확보
 <br><br>
