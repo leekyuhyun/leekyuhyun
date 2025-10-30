@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img
-      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1500&center=true&vCenter=true&width=600&height=120&multiline=true&lines=Never+Give+Up;노력은+배신하지+않는다;성장은+재능이+아닌+꾸준한+노력의+결과라고+믿으며,+매일+발전의+계단을+오르는+프론트엔드+개발자입니다"
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1500&center=true&vCenter=true&width=600&height=120&multiline=true&lines=Never+Give+Up;%EB%85%B8%EB%A0%A5%EC%9D%80+%EB%B0%B0%EC%8B%A0%ED%95%98%EC%A7%80+%EC%95%8A%EB%8A%94%EB%8B%A4;%EC%84%B1%EC%9E%A5%EC%9D%80+%EC%9E%AC%EB%8A%A5%EC%9D%B4+%EC%95%84%EB%8B%8C+%EA%BE%B8%EC%A4%80%ED%95%9C+%EB%85%B8%EB%A0%A5%EC%9D%98+%EA%B2%B0%EA%B3%BC%EB%9D%BC%EA%B3%A0+%EB%AF%BF%EC%9C%BC%EB%A9%B0%2C+%EB%A7%A4%EC%9D%BC+%EB%B0%9C%EC%A0%84%EC%9D%98+%EA%B3%84%EB%8B%A8%EC%9D%84+%EC%98%A4%EB%A5%B4%EB%8A%94+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4"
       alt="Typing SVG"
     />
   </a>
