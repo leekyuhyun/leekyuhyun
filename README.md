@@ -2,15 +2,6 @@
 
 ![헤더 배너](./images/github-header-banner.png)
 
-<div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img
-      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&pause=1500&center=true&vCenter=true&width=600&height=200&multiline=true&lines=Never+Give+Up;%EB%85%B8%EB%A0%A5%EC%9D%80+%EB%B0%B0%EC%8B%A0%ED%95%98%EC%A7%80+%EC%95%8A%EB%8A%94%EB%8B%A4;%EC%84%B1%EC%9E%A5%EC%9D%80+%EC%9E%AC%EB%8A%A5%EC%9D%B4+%EC%95%84%EB%8B%8C+%EA%BE%B8%EC%A4%80%ED%95%9C+%EB%85%B8%EB%A0%A5%EC%9D%98+%EA%B2%B0%EA%B3%BC%EB%9D%BC%EA%B3%A0+%EB%AF%BF%EC%9C%BC%EB%A9%B0%2C;%EB%A7%A4%EC%9D%BC+%EB%B0%9C%EC%A0%84%EC%9D%98+%EA%B3%84%EB%8B%A8%EC%9D%84+%EC%98%A4%EB%A5%B4%EB%8A%94+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4"
-      alt="Typing SVG"
-    />
-  </a>
-</div>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-peach-six-81.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leekyuhyun?tab=repositories)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@leekh010502)
@@ -97,3 +88,20 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🏆 Projects
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=leekyuhyun&repo=content_frontend&theme=transparent"
+    height="150"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=leekyuhyun&repo=JavaOmokProject&theme=transparent"
+    height="150"
+  />
+  </div>
+
+---
