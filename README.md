@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=280&section=header&text=Hello!!%20I'm%20Lee%20Kyu%20Hyun&fontSize=52&fontColor=ffffff&desc=Frontend%20Developer&descSize=18&descAlign=50&descAlignY=70)
+![헤더 배너](./images/github-header-banner.png)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-peach-six-81.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leekyuhyun?tab=repositories)
