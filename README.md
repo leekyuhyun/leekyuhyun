@@ -1,6 +1,6 @@
 <div align="center">
 
-![헤더 배너](./images/github-header-banner.png)
+![헤더 배너](./images/github-header 2.png)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-peach-six-81.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leekyuhyun?tab=repositories)
