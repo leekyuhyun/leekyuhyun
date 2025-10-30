@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://git-profile-readme-banner.vercel.app/api/vue?username=Hello!!%20I'm%20Lee%20Kyu%20Hyun&txt=Frontend%20Developer"
+    src="https://git-profile-readme-banner.vercel.app/api/javascript?username=Hello!!%20I'm%20Lee%20Kyu%20Hyun&txt=Frontend%20Developer"
     alt="Header Banner"
   />
 </p>
