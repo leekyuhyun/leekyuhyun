@@ -1,10 +1,11 @@
 <div align="center">
 
-![헤더 배너](./github-header-banner.png)
+![헤더 배너](./images/github-header-banner.png)
 
   <br>
 
-  ## 📈 GitHub Stats
+## 📈 GitHub Stats
+
   <div align="center">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=leekyuhyun&show_icons=true&theme=transparent&count_private=true&hide=stars,contribs" 
