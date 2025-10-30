@@ -7,7 +7,7 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@leekh010502)
 [![mail](https://img.shields.io/badge/mail-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:leekh010502@naver.com)
 
-  <br>
+---
 
 ## 📈 GitHub Stats
 
