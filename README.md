@@ -2,6 +2,15 @@
 
 ![헤더 배너](./images/github-header-banner.png)
 
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1500&center=true&vCenter=true&width=600&height=120&multiline=true&lines=Never+Give+Up;노력은+배신하지+않는다;성장은+재능이+아닌+꾸준한+노력의+결과라고+믿으며,+매일+발전의+계단을+오르는+프론트엔드+개발자입니다"
+      alt="Typing SVG"
+    />
+  </a>
+</div>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-peach-six-81.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leekyuhyun?tab=repositories)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@leekh010502)
