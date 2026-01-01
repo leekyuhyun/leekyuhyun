@@ -8,6 +8,7 @@
 [![mail](https://img.shields.io/badge/mail-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:leekh010502@naver.com)
 
 ---
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -22,6 +23,7 @@
     height="150"
   />
 </div>
+
 ---
 ## 🛠️ Tech Stack
 
