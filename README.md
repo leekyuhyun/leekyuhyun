@@ -18,4 +18,10 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 
 <br/>
-<br/>
+
+---
+<div align=center>
+<a href="https://github.com/devxb/gitanimals">
+    <img src = "https://render.gitanimals.org/farms/leekyuhyun"/>
+</a>
+</div>
