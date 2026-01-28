@@ -13,7 +13,7 @@
  <div align="center">
      <strong>K-디지털 챌린지 : Net 챌린지 캠프 시즌 12</strong>
       <br/>
-     <img src="https://img.shields.io/badge/Award-한국정보통신기술협회장상-gold?style=flat-square&logo=medal&logoColor=white" />
+     <img src="https://img.shields.io/badge/Award-한국정보통신기술협회장상-silver?style=flat-square&logo=medal&logoColor=white" />
 </div>
 
 ---
