@@ -1,5 +1,3 @@
-<div align="center">
-
 ![헤더 배너](./images/github-header-banner.png)
 
 [![Portfolio-공사중](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)]()
@@ -11,21 +9,32 @@
 
 ## 🏆 Achievements
 
-| 구분 | 수상 내역 |
-| :---: | :--- |
-| **주최 / 주관** | **과학기술정보통신부 / NIA, KOREN연구협력포럼** |
-| **대회명** | **K-디지털 챌린지 : Net 챌린지 캠프 시즌 12** |
-| **수상명** | **한국정보통신협회장상 (한국정보통신기술협회, TTA)** |
-| **주제** | **범죄 취약 계층의 초동 대응을 위한 스마트 장치 및 AI 기반 실시간 대응 서비스** |
-| **역할** | **시스템 프론트엔드 구현 및 아키텍처, 사용자 인터페이스 및 실시간 모니터링 기능 구현** |
+- **Net 챌린지 캠프 시즌 12 (한국정보통신협회장상)**
 
 ---
 
-## 📚 Studying Tech Stack
+## 🏃 Activity
 
-<br/>
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,git,github,docker" />
-<br/>
+- **프로그래머스 웹 풀스택 데브코스 9기 수료**
+
+---
+
+## 📚 Tech Stack
+
+#### Language
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### Front-End
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+#### Back-End
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+#### Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 <div align=center>
